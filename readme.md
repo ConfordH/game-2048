@@ -44,7 +44,7 @@ To run the 2048 game on your local machine, follow these steps:
 
 ## Screenshots
 
-![Game Screenshot](screenshots/game.png)
+![Game preview](/preview.png)
 
 ## How to Contribute
 
