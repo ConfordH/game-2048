@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python implementation of the popular 2048 game. The game is played on a 6x6 grid, where the player's objective is to combine tiles with the same number to create a tile with the number 2048. The game continues until there are no more valid moves available.
+This project is a Python implementation of the popular 2048 game. The game is played on a 4x4 grid, where the player's objective is to combine tiles with the same number to create a tile with the number 2048. The game continues until there are no more valid moves available.
 
 ## Features
 
